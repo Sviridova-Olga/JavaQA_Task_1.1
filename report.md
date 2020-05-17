@@ -8,7 +8,6 @@
 
 В результате тестирования выявлены следующие дефекты:
 * Issue #1 (https://github.com/Sviridova-Olga/JavaQA_Task_1.1/issues/1)
-* Issue #2 (https://github.com/Sviridova-Olga/JavaQA_Task_1.1/issues/2)
 * Issue #3 (https://github.com/Sviridova-Olga/JavaQA_Task_1.1/issues/3)
 
 ## Описание процесса тестирования
